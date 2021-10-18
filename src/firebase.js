@@ -5,7 +5,6 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDMRmsuVW93YPlADM1yEwF6kAZWWc1Csrg",
   authDomain: "disney-plus-2ac68.firebaseapp.com",
   projectId: "disney-plus-2ac68",
   storageBucket: "disney-plus-2ac68.appspot.com",
