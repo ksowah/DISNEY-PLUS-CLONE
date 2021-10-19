@@ -1,5 +1,5 @@
 # DISNEY-PLUS-CLONE
-This is a Disney plus clone built with React js. User is allowed to login to his or her Disney plus account by just choosing a google account from a screen popup, afterwhich they are redirected to the home page of DISNEY. 
+This is a Disney plus clone built with React js. User is allowed to login to his or her Disney plus account by just choosing a google account from a screen popup, afterwhich they are redirected to the home page. 
 The authentication is powered by Firebase Google authentication provider
 
 # DEPENDENCIES
