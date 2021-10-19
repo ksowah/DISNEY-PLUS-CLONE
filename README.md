@@ -9,6 +9,6 @@ The authentication is powered by Firebase Google authentication provider
 -[Styled Components](https://styled-components.com/)<br/>
 -[Nuka Carousel](https://www.npmjs.com/package/nuka-carousel)<br/>
 
-#VISIT<br/>
+# VISIT<br/>
 Click [here](https://disneyplusflick.netlify.app/home) to visit the finished site :)
 
